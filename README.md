@@ -6,4 +6,5 @@ Você vai aprender :
 - Criar um novo repositório
 - Criar um commit
 
->
+>Obs: Estude bastante para a disciplina de LTPI3
+
